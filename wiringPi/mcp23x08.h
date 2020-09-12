@@ -65,7 +65,7 @@
 
 // Default initialisation mode
 
-#define	IOCON_INIT	(IOCON_SEQOP)
+#define	IOCON_INIT	(IOCON_SEQOP | IOCON_HAEN)
 
 // SPI Command codes
 
